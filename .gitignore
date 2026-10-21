@@ -220,6 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 # images
-echo "*.jpg" >> .gitignore
-echo "*.jpeg" >> .gitignore
-echo "*.png" >> .gitignore
+*.jpg
+*.jpeg
+*.png
