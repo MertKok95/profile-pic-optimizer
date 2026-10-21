@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# images
+echo "*.jpg" >> .gitignore
+echo "*.jpeg" >> .gitignore
+echo "*.png" >> .gitignore
